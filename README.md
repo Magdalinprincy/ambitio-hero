@@ -51,6 +51,3 @@ npm run dev
 - Implement a full mobile navigation menu with animations
 - Optimize image loading for performance
 - Add more accessibility features
-
-## Screenshots
-[Include screenshots of your implementation on different devices]
